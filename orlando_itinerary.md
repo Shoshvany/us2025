@@ -1,6 +1,9 @@
 # Orlando Family Itinerary
 **October 9-13, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
 *Resort: Cabana Bay Beach Resort - Universal Orlando*
 *⚠️ PARENT PREFERENCES: Dad avoids full inversions | Mom avoids horror themes*
@@ -19,7 +22,7 @@
 
 ## 🎫 **Key Reservations & Confirmations**
 
-- **Flight:** Spirit Airlines NK 2819 - EWR to MCO (14:10-16:56) - Confirmation: SQGQGK
+- **Flight:** Spirit Airlines NK 2819 - EWR to MCO (14:10-16:56) - Confirmation: [REMOVED]
 - **Resort:** Cabana Bay Beach Resort - Courtyard Family Suite Poolside
 - **Package:** Universal Orlando 3 Park Explorer + 1-Day Epic Universe Ticket  
 - **Address:** Orlando, FL 32819, United States

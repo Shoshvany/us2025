@@ -1,5 +1,8 @@
 # NYC Holiday Passes - Attractions Comparison
 
+
+*Note: Some personal details have been removed for privacy*
+
 *Compiled for family visit planning - September 19, 2025*
 
 ---

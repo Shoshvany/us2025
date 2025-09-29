@@ -12,8 +12,11 @@
 # Our NYC Family Itinerary
 **October 4-9, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
-*Hotel: Michelangelo Hotel New York*
+*Hotel: Times Square Area Hotel*
 
 ---
 
@@ -54,7 +57,7 @@
 **Weather:** Check forecast | **Backup:** N/A (Indoor day)
 
 #### **Evening (After arrival):**
-- **6:00 PM:** Check into Michelangelo Hotel New York
+- **6:00 PM:** Check into Times Square Area Hotel
 - **7:00 PM:** 🍽️ **WELCOME DINNER** - **Junior's Restaurant** (famous cheesecake, kid-friendly)
 - **8:30 PM:** Times Square lights walk - let kids experience the energy
 - **9:30 PM:** Early rest - big day ahead!
@@ -73,7 +76,7 @@
 #### **Morning:**
 - **8:00 AM:** 🥐 **GRAB-AND-GO BREAKFAST** - Quick breakfast near hotel or en route
 - **8:25 AM:** **Walk to Summit One Vanderbilt** 
-  - *20-minute walk from Michelangelo Hotel (152 W 51st St) to 45 E 42nd St*
+  - *20-minute walk from Times Square Area Hotel (Times Square Area) to 45 E 42nd St*
   - *Or taxi/Uber if preferred (~8 mins, $10-15)*
 - **8:45 AM:** **Arrive at Summit** - Check-in & security (arrive 15 mins early)
 - **9:00 AM:** **Summit One Vanderbilt** 🎯 **(INCREDIBLE START)**
@@ -538,7 +541,7 @@
 - **Educational tie-ins:** Prep with books about NYC landmarks and 9/11 Memorial (age-appropriate)
 
 ### **Emergency Info:**
-- **Hotel:** Michelangelo Hotel New York, 152 West 51st Street, (212) 765-1900
+- **Hotel:** Times Square Area Hotel, Times Square Area, [PHONE REMOVED]
 - **Nearest urgent care:** CityMD Times Square, 234 W 42nd St
 - **Tourist info:** Times Square Visitor Center, 1560 Broadway
 

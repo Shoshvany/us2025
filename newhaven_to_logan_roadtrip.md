@@ -1,6 +1,9 @@
 # New Haven to Logan Road Trip
 **October 13-15, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Final Road Trip: 2 Adults + 3 Kids (ages 5, 9, 11)*  
 *Vehicle: Budget Car Rental from Tweed New Haven Airport*
 
@@ -36,7 +39,7 @@
 - **23:30 PM:** **Drive to hotel** (5 minutes from airport)
 
 #### **Accommodation:**
-- **Hotel:** Home2 Suites by Hilton East Haven New Haven
+- **Hotel:** New Haven Area Hotel
 - **Check-in:** Late arrival
 - **One night stay**
 - **Family rooms available**
@@ -148,7 +151,7 @@
 - **14:00 PM:** **Arrive at Logan International Airport**
 - **15:00 PM:** **Car drop-off** - Budget Car Rental
   - **Location:** Logan International Airport (BOS)
-  - **Address:** 15 Transportation Way, Boston, MA
+  - **Address:** Logan Airport Area
   - **Allow extra time** for return processing
 
 ---

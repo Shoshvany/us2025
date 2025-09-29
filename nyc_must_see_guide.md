@@ -1,5 +1,8 @@
 # NYC Must-See Places & Must-Do Activities Guide
 
+
+*Note: Some personal details have been removed for privacy*
+
 *Ultimate family guide with rankings and options for your NYC visit*
 
 ---

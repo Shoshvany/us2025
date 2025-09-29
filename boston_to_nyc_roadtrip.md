@@ -1,6 +1,9 @@
 # Boston to NYC Road Trip
 **October 3, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Family Road Trip: 2 Adults + 3 Kids (ages 5, 9, 11)*  
 *Vehicle: Jeep Grand Cherokee L or similar (Rentalcars.com)*
 
@@ -80,7 +83,7 @@
 
 #### **5:30 PM - [Arrive Pittsfield](https://waze.com/ul?q=1350%20West%20Housatonic%20Street%20Pittsfield%20MA)**
 - **Destination:** Best Western Plus Berkshire Hills Inn & Suites
-- **Address:** 1350 West Housatonic Street, Pittsfield, MA
+- **Address:** Pittsfield Area
 - **Check-in:** Evening arrival
 - **Why this route?** Rustic scenic experience with family-friendly stops
 
@@ -170,7 +173,7 @@
 - **Website:** [nps.gov/gate/learn/historyculture/fort-lee-historic-park.htm](https://www.nps.gov/gate/learn/historyculture/fort-lee-historic-park.htm)
 
 #### **5:45 PM - [Manhattan Arrival](https://waze.com/ul?q=152%20West%2051st%20Street%20New%20York)**
-- **Hotel check-in:** The Michelangelo Hotel, 152 West 51st Street
+- **Hotel check-in:** The Times Square Area Hotel, Times Square Area
 - **Check-in time:** 4:00 PM (late arrival okay)
 - **Extra buffer time:** Relaxed arrival without rushing
 
@@ -214,8 +217,8 @@
 ## 🏨 **Overnight Accommodation**
 
 ### **Best Western Plus Berkshire Hills Inn & Suites**
-- **Address:** 1350 West Housatonic Street, Pittsfield, MA 01201
-- **Phone:** (413) 499-2000
+- **Address:** Pittsfield Area 01201
+- **Phone:** [PHONE REMOVED]
 - **Website:** [bestwestern.com/berkshire-hills](https://www.bestwestern.com/en_US/book/hotel-details.23156.html)
 - **Amenities:** 
   - Indoor pool
