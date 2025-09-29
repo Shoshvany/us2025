@@ -1,0 +1,18 @@
+# Sensitive files to keep private
+*.pdf
+*confirmation*
+*booking*
+*reservation*
+
+# Personal information
+personal_info.md
+flight_details.md
+hotel_confirmations.md
+
+# Keep travel itineraries but remove:
+# - Flight confirmation numbers
+# - Hotel booking details  
+# - Credit card info
+# - Personal addresses (replace with general areas)
+
+# Example: Replace "123 Main St, NYC" with "Midtown Manhattan area"

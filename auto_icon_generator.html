@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auto Icon Generator</title>
+</head>
+<body>
+    <h1>Generating PWA Icons...</h1>
+    <script>
+        const sizes = [72, 96, 128, 144, 152, 192, 384, 512];
+        let completed = 0;
+        
+        function downloadIcon(canvas, size) {
+            const link = document.createElement('a');
+            link.download = `icon-${size}.png`;
+            link.href = canvas.toDataURL();
+            link.click();
+        }
+        
+        sizes.forEach((size, index) => {
+            setTimeout(() => {
+                const canvas = document.createElement('canvas');
+                canvas.width = size;
+                canvas.height = size;
+                const ctx = canvas.getContext('2d');
+                
+                // Create gradient background
+                const gradient = ctx.createLinearGradient(0, 0, size, size);
+                gradient.addColorStop(0, '#667eea');
+                gradient.addColorStop(1, '#764ba2');
+                ctx.fillStyle = gradient;
+                ctx.fillRect(0, 0, size, size);
+                
+                // Add travel bag
+                ctx.fillStyle = 'white';
+                ctx.strokeStyle = '#34495e';
+                ctx.lineWidth = Math.max(2, size/64);
+                const bagWidth = size/3;
+                const bagHeight = size/5;
+                const bagX = size/3;
+                const bagY = size/2.5;
+                ctx.fillRect(bagX, bagY, bagWidth, bagHeight);
+                ctx.strokeRect(bagX, bagY, bagWidth, bagHeight);
+                
+                // Add handle
+                ctx.beginPath();
+                ctx.arc(size/2, bagY - size/8, bagWidth/4, 0, Math.PI);
+                ctx.stroke();
+                
+                // Add text
+                ctx.fillStyle = 'white';
+                ctx.font = `bold ${Math.max(12, size/14)}px Arial`;
+                ctx.textAlign = 'center';
+                ctx.fillText('2025', size/2, size/1.4);
+                
+                // Add location pins
+                ctx.fillStyle = '#e74c3c';
+                ctx.beginPath();
+                ctx.arc(size/3.4, size/2, Math.max(4, size/43), 0, 2*Math.PI);
+                ctx.fill();
+                
+                ctx.fillStyle = '#27ae60';
+                ctx.beginPath();
+                ctx.arc(size/1.4, size/2.3, Math.max(4, size/43), 0, 2*Math.PI);
+                ctx.fill();
+                
+                ctx.fillStyle = '#f39c12';
+                ctx.beginPath();
+                ctx.arc(size/1.8, size/1.3, Math.max(4, size/43), 0, 2*Math.PI);
+                ctx.fill();
+                
+                // Auto-download
+                downloadIcon(canvas, size);
+                
+                completed++;
+                if (completed === sizes.length) {
+                    document.body.innerHTML = '<h1>✅ All icons generated!</h1><p>Check your Downloads folder for icon-*.png files</p><p>Move them to your project directory</p>';
+                }
+            }, index * 500); // Stagger downloads
+        });
+    </script>
+</body>
+</html>

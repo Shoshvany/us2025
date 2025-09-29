@@ -7,16 +7,12 @@ const urlsToCache = [
   './icon-512.png',
   // Travel documents
   './our_nyc_family_itinerary.md',
-  './nyc_must_see_guide.md',
   './our_nyc_must_do_list.md',
-  './nyc_holiday_passes_comparison.md',
   './orlando_itinerary.md',
   './boston_itinerary.md',
   './MIT tour.md',
   './boston_to_nyc_roadtrip.md',
-  './newhaven_to_logan_roadtrip.md',
-  './turn by turn.md',
-  './october.4th.route'
+  './newhaven_to_logan_roadtrip.md'
 ];
 
 // Install event - cache resources

@@ -189,6 +189,90 @@
             padding: 20px;
         }
 
+        .markdown-content {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: none;
+        }
+
+        .markdown-content h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 10px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        .markdown-content h2 {
+            color: #34495e;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+
+        .markdown-content h3 {
+            color: #e74c3c;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .markdown-content h4 {
+            color: #7f8c8d;
+            font-weight: bold;
+            margin-top: 15px;
+            margin-bottom: 8px;
+        }
+
+        .markdown-content ul {
+            margin: 10px 0;
+            padding-left: 25px;
+        }
+
+        .markdown-content li {
+            margin: 5px 0;
+            line-height: 1.4;
+        }
+
+        .markdown-content strong {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+
+        .markdown-content em {
+            color: #7f8c8d;
+            font-style: italic;
+        }
+
+        .markdown-content hr {
+            border: none;
+            border-top: 2px solid #e0e6ed;
+            margin: 20px 0;
+        }
+
+        .markdown-content a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        .markdown-content a:hover {
+            text-decoration: underline;
+        }
+
+        .markdown-content p {
+            margin: 12px 0;
+            line-height: 1.6;
+        }
+
+        .markdown-content code {
+            background: #f1f2f6;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 0.9em;
+        }
+
         @media (max-width: 600px) {
             body {
                 padding: 10px;
@@ -222,6 +306,27 @@
         <div class="subtitle">Complete Travel Planning | 2 Adults + 3 Kids (ages 5, 9, 11)</div>
 
         <div class="section">
+            <h2>🦞 Boston Trip - October 1-3, 2025</h2>
+            <div class="file-grid">
+                <div class="file-card" onclick="openDoc('boston_itinerary.md')">
+                    <div class="file-title">🏛️ Boston Itinerary</div>
+                    <div class="file-desc">Historical Boston attractions and family activities</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('MIT tour.md')">
+                    <div class="file-title">🎓 MIT Tour</div>
+                    <div class="file-desc">MIT campus tour information</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('boston_to_nyc_roadtrip.md')">
+                    <div class="file-title">🛣️ Boston to NYC Road Trip</div>
+                    <div class="file-desc">Scenic Route 2 drive with stops and attractions</div>
+                    <div class="status">Ready</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
             <h2>🏙️ NYC Trip - October 4-9, 2025</h2>
             <div class="file-grid">
                 <div class="file-card" onclick="openDoc('our_nyc_family_itinerary.md')">
@@ -229,19 +334,9 @@
                     <div class="file-desc">Day-by-day detailed schedule with timing, meals, and activities</div>
                     <div class="status">Ready</div>
                 </div>
-                <div class="file-card" onclick="openDoc('nyc_must_see_guide.md')">
-                    <div class="file-title">🌟 NYC Must-See Guide</div>
-                    <div class="file-desc">Comprehensive ranked guide to NYC attractions</div>
-                    <div class="status">Ready</div>
-                </div>
                 <div class="file-card" onclick="openDoc('our_nyc_must_do_list.md')">
                     <div class="file-title">✅ Personal Must-Do List</div>
                     <div class="file-desc">Your curated list of chosen activities</div>
-                    <div class="status">Ready</div>
-                </div>
-                <div class="file-card" onclick="openDoc('nyc_holiday_passes_comparison.md')">
-                    <div class="file-title">🎫 Attraction Passes Comparison</div>
-                    <div class="file-desc">GoCity, CityPASS, and TopView passes comparison</div>
                     <div class="status">Ready</div>
                 </div>
             </div>
@@ -255,55 +350,22 @@
                     <div class="file-desc">Universal Studios, Epic Universe, Islands of Adventure + Volcano Bay</div>
                     <div class="status">Ready</div>
                 </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🦞 Boston Trip</h2>
-            <div class="file-grid">
-                <div class="file-card" onclick="openDoc('boston_itinerary.md')">
-                    <div class="file-title">🏛️ Boston Itinerary</div>
-                    <div class="file-desc">Historical Boston attractions and family activities</div>
-                    <div class="status">Ready</div>
-                </div>
-                <div class="file-card" onclick="openDoc('MIT tour.md')">
-                    <div class="file-title">🎓 MIT Tour</div>
-                    <div class="file-desc">MIT campus tour information</div>
-                    <div class="status">Ready</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="section">
-            <h2>🚗 Transportation</h2>
-            <div class="file-grid">
-                <div class="file-card" onclick="openDoc('boston_to_nyc_roadtrip.md')">
-                    <div class="file-title">🛣️ Boston to NYC Road Trip</div>
-                    <div class="file-desc">Driving directions and stops</div>
-                    <div class="status">Ready</div>
-                </div>
                 <div class="file-card" onclick="openDoc('newhaven_to_logan_roadtrip.md')">
                     <div class="file-title">✈️ New Haven to Logan</div>
-                    <div class="file-desc">Airport transportation route</div>
-                    <div class="status">Ready</div>
-                </div>
-                <div class="file-card" onclick="openDoc('turn by turn.md')">
-                    <div class="file-title">🗺️ Turn by Turn Directions</div>
-                    <div class="file-desc">Detailed driving directions</div>
-                    <div class="status">Ready</div>
-                </div>
-                <div class="file-card" onclick="openDoc('october.4th.route')">
-                    <div class="file-title">📍 October 4th Route</div>
-                    <div class="file-desc">Specific route for travel day</div>
+                    <div class="file-desc">Return journey with Mystic Seaport stop</div>
                     <div class="status">Ready</div>
                 </div>
             </div>
         </div>
+
 
         <div class="footer">
             <p><strong>📱 PWA Travel Planner</strong></p>
             <p>Works offline • Install to home screen • Auto-updates</p>
             <p><em>Your complete US family trip planning companion</em></p>
+            <p style="font-size: 0.8em; color: #95a5a6; margin-top: 15px;">
+                <strong>Version 1.3</strong> | Updated: Sep 29, 2025 14:15 EST
+            </p>
         </div>
     </div>
 
@@ -353,55 +415,89 @@
             });
         }
 
-        // Simple markdown to HTML converter
+        // Enhanced markdown to HTML converter
         function convertMarkdownToHtml(markdown) {
             let html = markdown;
-            
+
             // Headers (in order: h4 -> h3 -> h2 -> h1)
             html = html.replace(/^#### (.*$)/gim, '<h4>$1</h4>');
             html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
             html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
             html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
-            
+
             // Horizontal rules
             html = html.replace(/^---$/gim, '<hr>');
-            
-            // Bold and italic
+
+            // Code blocks (inline)
+            html = html.replace(/`([^`]+)`/g, '<code style="background: #f1f2f6; padding: 2px 6px; border-radius: 3px; font-family: monospace;">$1</code>');
+
+            // Bold and italic (order matters)
             html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
             html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
-            
+
             // Links
             html = html.replace(/\[([^\]]*)\]\(([^)]*)\)/g, '<a href="$2" target="_blank">$1</a>');
-            
-            // Lists
+
+            // Process lines for lists and paragraphs
             const lines = html.split('\n');
             const result = [];
             let inList = false;
-            
-            for (let line of lines) {
-                if (line.trim().startsWith('- ')) {
+            let currentParagraph = [];
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i];
+                const trimmedLine = line.trim();
+
+                if (trimmedLine.startsWith('- ')) {
+                    // Handle list items
+                    if (currentParagraph.length > 0) {
+                        result.push(`<p>${currentParagraph.join(' ')}</p>`);
+                        currentParagraph = [];
+                    }
                     if (!inList) {
                         result.push('<ul>');
                         inList = true;
                     }
-                    result.push(`<li>${line.trim().substring(2)}</li>`);
-                } else {
+                    result.push(`<li>${trimmedLine.substring(2)}</li>`);
+                } else if (trimmedLine === '') {
+                    // Handle empty lines
                     if (inList) {
                         result.push('</ul>');
                         inList = false;
                     }
-                    if (line.trim() === '') {
-                        result.push('<br>');
-                    } else {
-                        result.push(line);
+                    if (currentParagraph.length > 0) {
+                        result.push(`<p>${currentParagraph.join(' ')}</p>`);
+                        currentParagraph = [];
                     }
+                } else if (trimmedLine.startsWith('#') || trimmedLine === '<hr>') {
+                    // Handle headers and horizontal rules
+                    if (inList) {
+                        result.push('</ul>');
+                        inList = false;
+                    }
+                    if (currentParagraph.length > 0) {
+                        result.push(`<p>${currentParagraph.join(' ')}</p>`);
+                        currentParagraph = [];
+                    }
+                    result.push(line);
+                } else if (trimmedLine.length > 0) {
+                    // Regular text lines - collect into paragraphs
+                    if (inList) {
+                        result.push('</ul>');
+                        inList = false;
+                    }
+                    currentParagraph.push(line);
                 }
             }
-            
+
+            // Close any remaining structures
             if (inList) {
                 result.push('</ul>');
             }
-            
+            if (currentParagraph.length > 0) {
+                result.push(`<p>${currentParagraph.join(' ')}</p>`);
+            }
+
             return result.join('\n');
         }
 
@@ -410,12 +506,12 @@
             document.getElementById('modalTitle').textContent = filename.replace(/[_-]/g, ' ').replace('.md', '');
             document.getElementById('docModal').style.display = 'block';
             document.getElementById('modalBody').innerHTML = 'Loading...';
-            
+
             try {
                 const response = await fetch(filename);
                 const text = await response.text();
                 const htmlContent = convertMarkdownToHtml(text);
-                document.getElementById('modalBody').innerHTML = `<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">${htmlContent}</div>`;
+                document.getElementById('modalBody').innerHTML = `<div class="markdown-content">${htmlContent}</div>`;
             } catch (error) {
                 document.getElementById('modalBody').innerHTML = `<p style="color: #e74c3c;">Error loading document: ${filename}</p><p>Make sure all your .md files are in the same directory as this HTML file.</p>`;
             }
