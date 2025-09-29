@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🗽 US Family Trip 2025</title>
+
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#667eea">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="US Trip 2025">
+    <meta name="description" content="Complete family travel planning for NYC, Orlando, Boston trips">
+
+    <!-- PWA Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    <link rel="manifest" href="manifest.json">
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .section {
+            margin: 30px 0;
+        }
+
+        .section h2 {
+            color: #e74c3c;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 8px;
+            margin-bottom: 20px;
+        }
+
+        .file-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .file-card {
+            border: 2px solid #e74c3c;
+            border-radius: 8px;
+            padding: 15px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            background: linear-gradient(135deg, #fff 0%, #f8f9fa 100%);
+            cursor: pointer;
+        }
+
+        .file-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(231, 76, 60, 0.3);
+            border-color: #c0392b;
+        }
+
+        .file-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #e74c3c;
+            margin-bottom: 8px;
+        }
+
+        .file-desc {
+            color: #555;
+            font-size: 0.9em;
+            margin-bottom: 8px;
+        }
+
+        .status {
+            background: #27ae60;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            display: inline-block;
+        }
+
+        .install-prompt {
+            background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: center;
+            display: none;
+        }
+
+        .install-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin-top: 10px;
+        }
+
+        .install-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #eee;
+            color: #7f8c8d;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 0;
+            border-radius: 12px;
+            width: 95%;
+            max-width: 1000px;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+        }
+
+        .modal-header {
+            background: #e74c3c;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 12px 12px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .close {
+            color: white;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover {
+            opacity: 0.7;
+        }
+
+        .modal-body {
+            padding: 20px;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 20px;
+            }
+
+            .file-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .modal-content {
+                width: 98%;
+                margin: 2% auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="install-prompt" id="installPrompt">
+            <h3>📱 Install as App</h3>
+            <p>Add this travel planner to your home screen for easy access!</p>
+            <button class="install-btn" id="installBtn">Install App</button>
+        </div>
+
+        <h1>🗽 US Family Trip 2025</h1>
+        <div class="subtitle">Complete Travel Planning | 2 Adults + 3 Kids (ages 5, 9, 11)</div>
+
+        <div class="section">
+            <h2>🏙️ NYC Trip - October 4-9, 2025</h2>
+            <div class="file-grid">
+                <div class="file-card" onclick="openDoc('our_nyc_family_itinerary.md')">
+                    <div class="file-title">🎯 Complete NYC Itinerary</div>
+                    <div class="file-desc">Day-by-day detailed schedule with timing, meals, and activities</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('nyc_must_see_guide.md')">
+                    <div class="file-title">🌟 NYC Must-See Guide</div>
+                    <div class="file-desc">Comprehensive ranked guide to NYC attractions</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('our_nyc_must_do_list.md')">
+                    <div class="file-title">✅ Personal Must-Do List</div>
+                    <div class="file-desc">Your curated list of chosen activities</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('nyc_holiday_passes_comparison.md')">
+                    <div class="file-title">🎫 Attraction Passes Comparison</div>
+                    <div class="file-desc">GoCity, CityPASS, and TopView passes comparison</div>
+                    <div class="status">Ready</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🎢 Orlando Trip - October 9-13, 2025</h2>
+            <div class="file-grid">
+                <div class="file-card" onclick="openDoc('orlando_itinerary.md')">
+                    <div class="file-title">🎮 Complete Orlando Itinerary</div>
+                    <div class="file-desc">Universal Studios, Epic Universe, Islands of Adventure + Volcano Bay</div>
+                    <div class="status">Ready</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🦞 Boston Trip</h2>
+            <div class="file-grid">
+                <div class="file-card" onclick="openDoc('boston_itinerary.md')">
+                    <div class="file-title">🏛️ Boston Itinerary</div>
+                    <div class="file-desc">Historical Boston attractions and family activities</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('MIT tour.md')">
+                    <div class="file-title">🎓 MIT Tour</div>
+                    <div class="file-desc">MIT campus tour information</div>
+                    <div class="status">Ready</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🚗 Transportation</h2>
+            <div class="file-grid">
+                <div class="file-card" onclick="openDoc('boston_to_nyc_roadtrip.md')">
+                    <div class="file-title">🛣️ Boston to NYC Road Trip</div>
+                    <div class="file-desc">Driving directions and stops</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('newhaven_to_logan_roadtrip.md')">
+                    <div class="file-title">✈️ New Haven to Logan</div>
+                    <div class="file-desc">Airport transportation route</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('turn by turn.md')">
+                    <div class="file-title">🗺️ Turn by Turn Directions</div>
+                    <div class="file-desc">Detailed driving directions</div>
+                    <div class="status">Ready</div>
+                </div>
+                <div class="file-card" onclick="openDoc('october.4th.route')">
+                    <div class="file-title">📍 October 4th Route</div>
+                    <div class="file-desc">Specific route for travel day</div>
+                    <div class="status">Ready</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p><strong>📱 PWA Travel Planner</strong></p>
+            <p>Works offline • Install to home screen • Auto-updates</p>
+            <p><em>Your complete US family trip planning companion</em></p>
+        </div>
+    </div>
+
+    <!-- Modal for document viewing -->
+    <div id="docModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">Document</h2>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <div class="modal-body" id="modalBody">
+                Loading...
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // PWA Installation
+        let deferredPrompt;
+
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            document.getElementById('installPrompt').style.display = 'block';
+        });
+
+        document.getElementById('installBtn').addEventListener('click', async () => {
+            if (deferredPrompt) {
+                deferredPrompt.prompt();
+                const { outcome } = await deferredPrompt.userChoice;
+                console.log(`User response to the install prompt: ${outcome}`);
+                deferredPrompt = null;
+                document.getElementById('installPrompt').style.display = 'none';
+            }
+        });
+
+        // Register service worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then((registration) => {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch((registrationError) => {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+
+        // Document viewing functionality
+        async function openDoc(filename) {
+            document.getElementById('modalTitle').textContent = filename.replace(/[_-]/g, ' ').replace('.md', '');
+            document.getElementById('docModal').style.display = 'block';
+            document.getElementById('modalBody').innerHTML = 'Loading...';
+
+            try {
+                const response = await fetch(filename);
+                const text = await response.text();
+                document.getElementById('modalBody').innerHTML = `<pre style="white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">${text}</pre>`;
+            } catch (error) {
+                document.getElementById('modalBody').innerHTML = `<p style="color: #e74c3c;">Error loading document: ${filename}</p><p>Make sure all your .md files are in the same directory as this HTML file.</p>`;
+            }
+        }
+
+        function closeModal() {
+            document.getElementById('docModal').style.display = 'none';
+        }
+
+        // Close modal when clicking outside
+        window.addEventListener('click', (event) => {
+            const modal = document.getElementById('docModal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+
+</html>
