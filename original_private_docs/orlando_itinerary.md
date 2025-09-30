@@ -1,6 +1,9 @@
 # Orlando Family Itinerary
 **October 9-13, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
 *Resort: Cabana Bay Beach Resort - Universal Orlando*
 *⚠️ PARENT PREFERENCES: Dad avoids full inversions | Mom avoids horror themes*
@@ -19,7 +22,7 @@
 
 ## 🎫 **Key Reservations & Confirmations**
 
-- **Flight:** Spirit Airlines NK 2819 - EWR to MCO (14:10-16:56) - Confirmation: SQGQGK
+- **Flight:** Spirit Airlines NK 2819 - EWR to MCO (14:10-16:56) - Confirmation: [REMOVED]
 - **Resort:** Cabana Bay Beach Resort - Courtyard Family Suite Poolside
 - **Package:** Universal Orlando 3 Park Explorer + 1-Day Epic Universe Ticket  
 - **Address:** Orlando, FL 32819, United States
@@ -63,7 +66,7 @@
 - **7:45 AM:** **ARRIVE AT GATES** - 30 minutes before Early Access to get in line first
 - **8:15 AM:** **EARLY ACCESS BEGINS** - Sprint to Super Nintendo World
 
-#### **Morning Priority (8:15-10:30 AM) - ROPE DROP STRATEGY:**
+#### **Morning Priority (8:15-11:30 AM) - ROPE DROP STRATEGY:**
 **Phase 1: Super Nintendo World (Highest Priority)**
 - **8:20 AM:** 🎯 **Mario Kart: Bowser's Challenge** 
   - **CHECK APP FIRST!** Expected: 60-90 min with early access
@@ -71,60 +74,86 @@
   - **IF WAIT 60-90 MIN:** 🤔 Consider doing Yoshi first, return later  
   - **IF WAIT 90+ MIN:** ❌ Do Yoshi + playground, check Virtual Line option
   - **Mobile order breakfast snacks** while in any line
-- **9:00 AM:** 🎯 **Yoshi's Adventure** *(Wait: 20-40 min normally, ~5-10 min early)*
+- **9:45 AM:** 🎯 **Yoshi's Adventure** *(Wait: 20-40 min normally, ~5-10 min early)*
   - **PERFECT FOR 5-YEAR-OLD** - gentle ride, beautiful scenery
-- **9:20 AM:** **Collect Power-Up Bands** for interactive experiences
-- **9:30 AM:** 🎯 **Donkey Kong: Mine-Cart Madness** *(Wait: 60-80 min normally, ~25-30 min early)*
+  - **TIMING:** Assumes Mario Kart took 75 min total (60 min wait + 7 min ride + 8 min exit/walk)
+- **10:15 AM:** **Collect Power-Up Bands** for interactive experiences
+- **10:25 AM:** 🎯 **Donkey Kong: Mine-Cart Madness** *(Wait: 60-80 min normally, ~25-30 min early)*
   - **SPLITTING STRATEGY:** One adult + 9 & 11-year-old ride, other adult + 5-year-old explore Nintendo playground
+  - **TIMING:** Assumes Yoshi took 25 min total (15 min wait + 5 min ride + 5 min exit/walk)
 
-#### **Late Morning (10:30 AM-12:00 PM) - STRATEGIC MOVEMENT:**
+#### **Late Morning (11:30 AM-1:00 PM) - STRATEGIC MOVEMENT:**
 **Phase 2: Celestial Park**
-- **10:45 AM:** 🎯 **Stardust Racers** (Dueling Coaster) *(Wait: 35-45 min)*
+- **11:30 AM:** 🎯 **Stardust Racers** (Dueling Coaster) *(Wait: 35-45 min)*
   - **⚠️ DAD WON'T RIDE** - has "Celestial Spin" inversion (synchronized roll)
   - **MOM + 9 & 11-year-old ride** together
   - **DAD + 5-year-old** explore Celestial Park interactive areas and gardens
   - **Alternative:** Skip entirely if Mom prefers, use time for other attractions
-- **11:30 AM:** 🎯 **Constellation Carousel** *(Wait: 5-15 min)*
+  - **TIMING:** Assumes Donkey Kong took 40 min total (25 min wait + 8 min ride + 7 min exit/walk)
+- **12:30 PM:** 🎯 **Constellation Carousel** *(Wait: 5-15 min)*
   - **PERFECT FOR ALL AGES** - beautiful, relaxing
+  - **TIMING:** Assumes Stardust Racers took 50 min total for those who rode (40 min wait + 5 min ride + 5 min exit/walk)
 
-#### **Lunch Break (12:00-1:00 PM):**
-- **12:00 PM:** 🍽️ **LUNCH** - **Toadstool Cafe** (Super Nintendo World)
+#### **Lunch Break (1:00-2:00 PM):**
+- **1:00 PM:** 🍽️ **LUNCH** - **Toadstool Cafe** (Super Nintendo World)
   - **Mobile ordered ahead** while in Stardust Racers line
   - **Nintendo-themed food** - kids will love the presentation
   - **Air conditioning break** to recharge
 
-#### **Afternoon Phase 1 (1:00-3:00 PM) - SPLIT STRATEGY:**
+#### **Afternoon Phase 1 (2:00-4:00 PM) - SPLIT STRATEGY:**
 **Phase 3: How to Train Your Dragon - Isle of Berk**
-- **1:15 PM:** 🎯 **Hiccup's Wing Gliders** *(Wait: 30-40 min)*
+- **2:15 PM:** 🎯 **Hiccup's Wing Gliders** *(Wait: 30-40 min)*
   - **FAMILY COASTER** - suitable for all, mild thrills
-- **2:00 PM:** 🎯 **Fyre Drill** (Water Ride) *(Wait: 15-35 min)*
+  - **TIMING:** Assumes 15 min to walk from lunch + get oriented
+- **3:00 PM:** 🎯 **Fyre Drill** (Water Ride) *(Wait: 15-35 min)*
   - **WATER RIDE** - might get wet, perfect for afternoon heat
-- **2:30 PM:** **Meet & Greet with Hiccup & Toothless**
+  - **TIMING:** Assumes Wing Gliders took 40 min total (30 min wait + 5 min ride + 5 min exit/walk)
+- **3:30 PM:** **Meet & Greet with Hiccup & Toothless**
   - **5-year-old will love this** - photo opportunities
+  - **TIMING:** Assumes Fyre Drill took 25 min total (20 min wait + 5 min ride/exit)
 
-#### **Afternoon Phase 2 (3:00-5:00 PM) - FAMILY FRIENDLY OPTIONS:**
+#### **Afternoon Phase 2 (4:00-6:00 PM) - FAMILY FRIENDLY OPTIONS:**
 **Phase 4: Alternative Adventures (Avoiding Horror for Mom)**
-- **3:15 PM:** **SPLIT DECISION - Dark Universe**
+- **4:15 PM:** **SPLIT DECISION - Dark Universe**
   - **Mom + 5-year-old:** Explore **Celestial Park gardens** and interactive areas
   - **Dad + 9 & 11-year-old:** 🎯 **Monsters Unchained: The Frankenstein Experiment** *(Wait: 40-50 min)*
     - **AMAZING TECHNOLOGY** - more adventure than horror
     - **Mobile order snacks** while in line
-- **4:00 PM:** **REGROUP** - Family back together
-- **4:15 PM:** 🎯 **Alternative family ride** or **explore Ministry of Magic early**
+- **5:15 PM:** **REGROUP** - Family back together
+  - **TIMING:** Assumes Monsters ride took 55 min total (45 min wait + 10 min experience)
+- **5:30 PM:** 🎯 **Alternative family ride** or **explore Ministry of Magic early**
   - **AVOID Curse of the Werewolf** - horror themed for Mom
 
-#### **Late Afternoon (5:00-6:30 PM) - MINISTRY OF MAGIC:**
+#### **Late Afternoon (6:00-7:00 PM) - MINISTRY OF MAGIC:**
 **Phase 5: Wizarding World - Ministry of Magic**
-- **5:15 PM:** **Explore Ministry Atrium** - amazing theming, no wait
-- **5:30 PM:** **Le Cirque Arcanus** show (if scheduled)
-- **6:00 PM:** **Interactive wand experiences** throughout the land
+- **6:00 PM:** 🎯 **Harry Potter and the Battle at the Ministry** *(Wait: 45-60 min)*
+  - **FLAGSHIP MINISTRY ATTRACTION** - immersive dark ride through the Ministry
+  - **Height requirement: 42 inches** - all kids can ride!
+  - **FAMILY STRATEGY:** All experience together - magical adventure!
+  - **TIMING:** Assumes 15 min regroup time + walk to Ministry
+  - **🔄 BACKUP PLAN:** If wait is 90+ min, skip ride → **Chez Alcott dinner** instead
+#### **Evening (7:00-8:00 PM):**
+- **7:00 PM:** **Interactive wand experiences** + **Final photos**
+  - **Ministry magic** with beautiful evening lighting
+  - **Mobile order snacks** while in Battle at Ministry line (smart!)
+  - **TIMING:** Assumes Battle at Ministry took 55 min total (45 min wait + 6 min ride + 4 min exit)
+- **7:30 PM:** **Final souvenir shopping** at Ministry shops
+- **8:00 PM:** **Park closes - Return to Cabana Bay**
 
-#### **Evening (6:30-8:00 PM):**
-- **6:30 PM:** 🍽️ **DINNER** - **Chez Alcott** (French bistro in Ministry)
-  - **Table service** - nice sit-down meal to rest feet
-  - **Book reservation** via app during afternoon
-- **7:45 PM:** **Final photos** and souvenir shopping
-- **8:00 PM:** **Return to Cabana Bay** - epic day complete!
+#### **Post-Park Dinner Options:**
+**Option A: If Battle at Ministry wait was reasonable (45-60 min)**
+- **8:15 PM:** 🍽️ **DINNER** - **Bayliner Diner** (back at Cabana Bay)
+  - **Relaxed sit-down dinner** - perfect way to decompress
+  - **50's theme atmosphere** - fun end to Epic Universe day
+
+**Option B: If you skipped Battle at Ministry (90+ min wait)**
+- **7:00 PM:** 🍽️ **DINNER** - **Chez Alcott** (French bistro in Ministry)
+  - **Table service** - nice sit-down meal with Ministry theming
+  - **Book reservation** via app when you see the long wait
+  - **8:00 PM:** Return to Cabana Bay for early pool time
+
+**Either way:**
+- **9:30 PM:** **Pool time celebration** - epic day complete! 🎮
 
 #### **MOBILE ORDERING STRATEGY:**
 - **Order breakfast snacks** while in any first attraction line (may not be Mario Kart!)
@@ -151,65 +180,77 @@
 - **7:45 AM:** **ARRIVE AT GATES** - 30 minutes before Early Access
 - **8:15 AM:** **EARLY ACCESS BEGINS** - Straight to Wizarding World
 
-#### **Morning Priority (8:15-11:00 AM) - ROPE DROP HARRY POTTER:**
+#### **Morning Priority (8:15-11:30 AM) - ROPE DROP HARRY POTTER:**
 **Phase 1: Hogsmeade (Highest Priority)**
 - **8:20 AM:** 🎯 **Hagrid's Magical Creatures Motorbike Adventure** *(Usually 90+ min wait, ~20-30 min early)*
   - **MUST-DO FIRST** - most popular ride in park
   - **Height requirement: 48 inches** - all kids can ride!
   - **FAMILY STRATEGY:** All ride together, amazing experience
-- **9:15 AM:** 🎯 **Harry Potter and the Forbidden Journey** *(Usually 60+ min, ~15-25 min early)*
+- **9:00 AM:** 🎯 **Harry Potter and the Forbidden Journey** *(Usually 60+ min, ~15-25 min early)*
   - **INCREDIBLE EXPERIENCE** - height requirement: 48 inches
   - **Mobile order Butterbeer** while in line
-- **10:00 AM:** 🎯 **Flight of the Hippogriff** *(Usually 35+ min, ~10-15 min early)*
+  - **TIMING:** Assumes Hagrid's took 35 min total (25 min wait + 4 min ride + 6 min exit/walk)
+- **9:35 AM:** 🎯 **Flight of the Hippogriff** *(Usually 35+ min, ~10-15 min early)*
   - **PERFECT FAMILY COASTER** - gentle introduction to coasters
   - **5-year-old will love this** - not scary at all
-- **10:30 AM:** **Hogsmeade Village Exploration** + **Butterbeer pickup**
+  - **TIMING:** Assumes Forbidden Journey took 30 min total (20 min wait + 5 min experience + 5 min exit/walk)
+- **9:50 AM:** **Hogsmeade Village Exploration** + **Butterbeer pickup**
   - **Interactive wand spots** throughout village
   - **Photo opportunities** - iconic Hogwarts backdrop
+  - **TIMING:** Assumes Hippogriff took 15 min total (12 min wait + 2 min ride + 1 min exit)
 
-#### **Late Morning (11:00 AM-12:30 PM) - MARVEL HEROES:**
+#### **Late Morning (10:30 AM-12:00 PM) - MARVEL HEROES:**
 **Phase 2: Marvel Super Hero Island**
-- **11:15 AM:** 🎯 **The Amazing Adventures of Spider-Man** *(Wait: 40-50 min)*
+- **10:30 AM:** 🎯 **The Amazing Adventures of Spider-Man** *(Wait: 40-50 min)*
   - **CUTTING-EDGE 3D RIDE** - suitable for all ages
   - **Mobile order lunch** while in line
-- **12:00 PM:** 🎯 **Storm Force Accelatron** *(Wait: 15-25 min)*
+  - **TIMING:** Assumes 15 min walk from Hogsmeade + brief Marvel area exploration
+- **11:30 AM:** 🎯 **Storm Force Accelatron** *(Wait: 15-25 min)*
   - **MILD SPINNING RIDE** - great for 5-year-old
+  - **TIMING:** Assumes Spider-Man took 50 min total (45 min wait + 5 min experience + travel time)
 
-#### **Lunch Break (12:30-1:30 PM):**
-- **12:30 PM:** 🍽️ **LUNCH** - **Three Broomsticks** (picked up via mobile order)
+#### **Lunch Break (12:00-1:00 PM):**
+- **12:00 PM:** 🍽️ **LUNCH** - **Three Broomsticks** (picked up via mobile order)
   - **Magical atmosphere** - kids love the theming
   - **British pub food** with kids' portions
   - **Rest and hydration break** in air conditioning
+  - **TIMING:** Assumes Storm Force took 20 min total (15 min wait + 3 min ride + 2 min exit) + walk back to Hogsmeade
 
-#### **Afternoon Phase 1 (1:30-3:30 PM) - JURASSIC ADVENTURES:**
+#### **Afternoon Phase 1 (1:00-3:00 PM) - JURASSIC ADVENTURES:**
 **Phase 3: Jurassic Park**
-- **1:45 PM:** 🎯 **Jurassic Park River Adventure** *(Wait: 35-45 min)*
+- **1:15 PM:** 🎯 **Jurassic Park River Adventure** *(Wait: 35-45 min)*
   - **FAMILY WATER RIDE** - expect to get splashed!
   - **Height requirement: 42 inches** - all kids can ride
-- **2:30 PM:** **Jurassic Park Discovery Center**
+  - **TIMING:** Assumes 15 min walk from lunch + area exploration
+- **2:00 PM:** **Jurassic Park Discovery Center**
   - **Interactive exhibits** - perfect for 5-year-old
   - **Air conditioning** and educational fun
   - **Baby dinosaur encounters**
-- **3:00 PM:** 🎯 **Jurassic World VelociCoaster** *(Wait: 67+ min)*
+  - **TIMING:** Assumes River Adventure took 40 min total (35 min wait + 5 min ride + travel time)
+- **2:30 PM:** 🎯 **Jurassic World VelociCoaster** *(Wait: 67+ min)*
   - **⚠️ DAD WON'T RIDE** - multiple inversions + extreme intensity
   - **MOM + 11-year-old ride** (if she's comfortable with intensity)
   - **DAD + 5 & 9-year-old** explore Jurassic Park Discovery Center and playground
   - **Alternative:** Skip if both parents prefer, use time for other attractions
 
-#### **Afternoon Phase 2 (3:30-5:00 PM) - DR. SEUSS PARADISE:**
+#### **Afternoon Phase 2 (3:45-5:15 PM) - DR. SEUSS PARADISE:**
 **Phase 4: Seuss Landing (Perfect for 5-year-old)**
 - **3:45 PM:** 🎯 **The Cat in the Hat** *(Wait: 20-30 min)*
   - **WHIMSICAL DARK RIDE** - 5-year-old's favorite zone begins!
+  - **TIMING:** Family regroups after VelociCoaster (those who rode finish ~3:45 PM)
 - **4:15 PM:** 🎯 **One Fish, Two Fish, Red Fish, Blue Fish** *(Wait: 15-25 min)*
   - **INTERACTIVE FLYING RIDE** - control your own adventure
-- **4:40 PM:** 🎯 **The High in the Sky Seuss Trolley Train Ride!** *(Wait: 10-20 min)*
+  - **TIMING:** Assumes Cat in the Hat took 25 min total (20 min wait + 5 min ride + travel time)
+- **4:45 PM:** 🎯 **The High in the Sky Seuss Trolley Train Ride!** *(Wait: 10-20 min)*
   - **SCENIC TRAIN RIDE** - beautiful views and gentle fun
+  - **TIMING:** Assumes One Fish took 20 min total (15 min wait + 5 min ride + travel time)
 
-#### **Late Afternoon (5:00-6:30 PM) - MORE THRILLS:**
+#### **Late Afternoon (5:15-6:30 PM) - MORE THRILLS:**
 **Phase 5: Toon Lagoon & Lost Continent**
 - **5:15 PM:** 🎯 **Dudley Do-Right's Ripsaw Falls** *(Wait: 30-40 min)*
   - **LOG FLUME RIDE** - will get soaked! Perfect for hot afternoon
   - **Child Swap available** if 5-year-old doesn't want to get wet
+  - **TIMING:** Assumes Trolley Train took 20 min total (12 min wait + 3 min ride + 5 min exit/walk)
 - **6:00 PM:** **Poseidon's Fury** (if operating)
   - **Walk-through experience** - great for all ages
 
@@ -257,43 +298,51 @@
   - **INCREDIBLE 3D COASTER** - perfect blend of thrills and storytelling
   - **Height requirement: 42 inches** - all kids can ride!
   - **FAMILY STRATEGY:** All experience together - magical!
-- **9:15 AM:** **Diagon Alley Exploration**
+- **9:00 AM:** **Diagon Alley Exploration**
   - **Ollivanders wand show** - interactive magic experience
   - **Wand shopping** and interactive spell locations
   - **Butterbeer** and magical treats
-- **10:00 AM:** **Hogwarts Express to Islands** (if time permits for photos)
-- **10:30 AM:** 🎯 **Despicable Me Minion Mayhem** *(Wait: 40-50 min, ~15-20 min early)*
+  - **TIMING:** Assumes Gringotts took 36 min total (25 min wait + 6 min ride + 5 min exit)
+- **9:45 AM:** **Hogwarts Express to Islands** (if time permits for photos)
+- **10:15 AM:** 🎯 **Despicable Me Minion Mayhem** *(Wait: 40-50 min, ~15-20 min early)*
   - **PERFECT FOR 5-YEAR-OLD** - gentle, funny, colorful
+  - **TIMING:** Assumes 30 min walk/exploration time + return from Hogwarts Express
 
-#### **Late Morning (11:00 AM-12:30 PM) - CLASSIC ATTRACTIONS:**
+#### **Late Morning (10:45 AM-12:00 PM) - CLASSIC ATTRACTIONS:**
 **Phase 2: Must-Do Universal Classics**
-- **11:15 AM:** 🎯 **E.T. Adventure** *(Wait: 20-30 min)*
+- **10:45 AM:** 🎯 **E.T. Adventure** *(Wait: 20-30 min)*
   - **CLASSIC UNIVERSAL RIDE** - perfect for all ages
   - **5-year-old will love E.T.** - gentle and heartwarming
   - **Mobile order lunch** while in line
-- **12:00 PM:** 🎯 **Men in Black: Alien Attack** *(Wait: 25-35 min)*
+  - **TIMING:** Assumes Despicable Me took 28 min total (18 min wait + 5 min ride + 5 min exit/walk)
+- **11:20 AM:** 🎯 **Men in Black: Alien Attack** *(Wait: 25-35 min)*
   - **INTERACTIVE SHOOTING RIDE** - compete as family!
   - **9 & 11-year-old will excel** at alien shooting
+  - **TIMING:** Assumes E.T. took 29 min total (25 min wait + 4 min ride + walk time)
 
-#### **Lunch Break (12:30-1:30 PM):**
-- **12:30 PM:** 🍽️ **LUNCH** - **Leaky Cauldron** (mobile order pickup)
+#### **Lunch Break (12:00-1:00 PM):**
+- **12:00 PM:** 🍽️ **LUNCH** - **Leaky Cauldron** (mobile order pickup)
   - **British wizarding pub** atmosphere
   - **Bangers and mash, fish & chips** with kids' options
   - **Final magical dining** experience
+  - **TIMING:** Assumes Men in Black took 40 min total (30 min wait + 5 min ride + 5 min exit/walk)
 
-#### **Afternoon Phase 1 (1:30-3:30 PM) - THRILL & FAMILY MIX:**
+#### **Afternoon Phase 1 (1:00-3:00 PM) - THRILL & FAMILY MIX:**
 **Phase 3: High-Energy Attractions**
-- **1:45 PM:** 🎯 **Transformers: The Ride-3D** *(Wait: 35-45 min)*
+- **1:15 PM:** 🎯 **Transformers: The Ride-3D** *(Wait: 35-45 min)*
   - **ACTION-PACKED 3D RIDE** - suitable for all ages
   - **Height requirement: 40 inches** - all kids qualify
-- **2:30 PM:** 🎯 **The Simpsons Ride** *(Wait: 30-40 min)*
+  - **TIMING:** Assumes 15 min walk from lunch + area exploration
+- **2:00 PM:** 🎯 **The Simpsons Ride** *(Wait: 30-40 min)*
   - **FAMILY MOTION SIMULATOR** - funny for all ages
   - **Springfield area** - great theming
-- **3:15 PM:** **FAMILY SPLIT - Mummy Decision**
+  - **TIMING:** Assumes Transformers took 40 min total (35 min wait + 5 min ride + walk time)
+- **2:45 PM:** **FAMILY SPLIT - Mummy Decision**
   - **⚠️ MOM WON'T RIDE MUMMY** - horror/mummy theme
   - **DAD + 9 & 11-year-old:** 🎯 **Revenge of the Mummy** *(Wait: 35-45 min)*
   - **MOM + 5-year-old:** Explore **Springfield area** or **Woody Woodpecker KidZone**
   - **Alternative family option:** Skip Mummy, do **Fast & Furious - Supercharged** instead
+  - **TIMING:** Assumes Simpsons took 45 min total (35 min wait + 6 min ride + 4 min exit/walk)
 
 #### **Afternoon Phase 2 (3:30-5:00 PM) - SHOWS & EXPERIENCES:**
 **Phase 4: Entertainment & Cooler Activities**
@@ -382,15 +431,18 @@
   - **UNIQUE WATER COASTER** through volcano - must-do experience
   - **Height requirement: 42 inches** - all kids can ride
   - **Use TapuTapu** to reserve ride time if line is long
-- **10:00 AM:** 🌊 **Ko'okiri Body Plunge** (for brave older kids/adults)
+- **10:15 AM:** 🌊 **Ko'okiri Body Plunge** (for brave older kids/adults)
   - **EXTREME SLIDE** - only if 9 & 11-year-old want to try
   - **CHILD SWAP:** One adult with 5-year-old at kid area
-- **10:30 AM:** 🌊 **Punga Racers** *(Multi-slide racing)*
+  - **TIMING:** Assumes Krakatau took 45 min total (including TapuTapu wait + multiple rides + moving between areas)
+- **10:45 AM:** 🌊 **Punga Racers** *(Multi-slide racing)*
   - **FAMILY RACING SLIDES** - compete against each other!
   - **Perfect for all ages** - different intensity levels
-- **11:00 AM:** 🌊 **TeAwa The Fearless River** *(Rapids river)*
+  - **TIMING:** Assumes Ko'okiri took 15 min total (quick for those who tried it) + regroup time
+- **11:15 AM:** 🌊 **TeAwa The Fearless River** *(Rapids river)*
   - **ADVENTURE RIVER** - more exciting than typical lazy river
   - **Family fun** - all can enjoy together
+  - **TIMING:** Assumes Punga Racers took 25 min total (racing + multiple runs)
 - **11:45 AM:** **Quick snack break** - grab something light
 
 #### **Midday Relaxation (12:00-2:00 PM):**

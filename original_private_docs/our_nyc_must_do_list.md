@@ -1,5 +1,8 @@
 # Our NYC Must-Do List
 
+
+*Note: Some personal details have been removed for privacy*
+
 *Personal family itinerary - edit as needed*
 
 ---

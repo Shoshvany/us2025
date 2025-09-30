@@ -1,8 +1,11 @@
 # Boston Family Itinerary
 **October 1-3, 2025**
 
+*Note: Some personal details have been removed for privacy*
+
+
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
-*Hotel: Residence Inn by Marriott Boston Cambridge*
+*Hotel: Cambridge Area Hotel*
 
 ---
 
@@ -16,9 +19,9 @@
 
 ## 🎫 **Key Reservations & Confirmations**
 
-- **Flight:** EL AL LY 15 - TLV to BOS (01:05-05:45) - Confirmation: YZQ9OC
-- **Hotel:** Residence Inn by Marriott Boston Cambridge - Confirmation: 88297978
-- **Address:** 120 Broadway, Cambridge, MA
+- **Flight:** EL AL LY 15 - TLV to BOS (01:05-05:45) - Confirmation: [REMOVED]
+- **Hotel:** Cambridge Area Hotel - Confirmation: [REMOVED]
+- **Address:** Cambridge/Kendall Square Area
 - **Car Rental:** Jeep Grand Cherokee L or similar (Rentalcars.com) - Pickup Thursday 9:00 AM
 
 ---
@@ -192,8 +195,8 @@
 
 ## 🏨 **Hotel Details**
 
-**Residence Inn by Marriott Boston Cambridge**
-- **Address:** 120 Broadway, Cambridge, MA
+**Cambridge Area Hotel**
+- **Address:** Cambridge/Kendall Square Area
 - **Confirmation:** 88297978
 - **Check-in:** October 1, 4:00 PM
 - **Checkout:** October 3, 8:00 AM
@@ -230,7 +233,7 @@
 - **Already registered!** ✅
 
 ### **Harvard Visit (Morning):**
-- **Harvard tours:** Check harvard.edu/visit or call (617) 495-1573
+- **Harvard tours:** Check harvard.edu/visit or call [PHONE REMOVED]
 - **Self-guided option:** Use Visit Harvard mobile app
 - **Timing:** 9:30 AM - 12:00 PM before MIT tour
 
