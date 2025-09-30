@@ -287,3 +287,10 @@
 ---
 
 *Last updated: [Date] | Ready for your Boston adventure! 🦞*
+
+---
+
+<div align="center">
+<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small>📅 Generated: Sep 30, 2025 | 🏦 Historical Boston | 🦞 Seafood Adventures</small>
+</div>

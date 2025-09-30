@@ -145,3 +145,10 @@ Based on our choices above:
 ---
 
 *Last updated: [Date] | Edit this list as you plan and discover new options!*
+
+---
+
+<div align="center">
+<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small>📅 Generated: Sep 30, 2025 | ✅ Personal Must-Do Tracker</small>
+</div>

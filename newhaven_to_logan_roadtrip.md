@@ -347,3 +347,10 @@
 ---
 
 *Safe travels on your final East Coast adventure! 🚗🦞*
+
+---
+
+<div align="center">
+<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small>📅 Generated: Sep 30, 2025 | ✈️ Return Journey | 🚪 Mystic Seaport</small>
+</div>

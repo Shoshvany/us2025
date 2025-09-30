@@ -357,3 +357,10 @@
 ---
 
 *Safe travels from Boston to the Big Apple! 🍎*
+
+---
+
+<div align="center">
+<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small>📅 Generated: Sep 30, 2025 | 🛻 Scenic Route 2 Journey</small>
+</div>

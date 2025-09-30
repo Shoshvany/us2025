@@ -31,3 +31,10 @@ Want more? Check out our self-guided walking tour so you can plan out what you w
 
 Safe travels, and we're excited to see you soon!
 MIT Admissions
+
+---
+
+<div align="center">
+<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small>📅 Generated: Sep 30, 2025 | 🎨 MIT Campus Tour Guide</small>
+</div>
