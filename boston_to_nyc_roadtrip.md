@@ -11,7 +11,7 @@
 
 ## 🚗 **Route Overview**
 
-**Boston, MA → Pittsfield, MA → New York City, NY**
+**[Boston, MA](https://maps.google.com/maps?q=Boston+Massachusetts) → [Pittsfield, MA](https://maps.google.com/maps?q=Pittsfield+Massachusetts) → [New York City, NY](https://maps.google.com/maps?q=New+York+City)**
 - **Total Distance:** ~230 miles
 - **Total Driving Time:** ~7.5 hours (with scenic stops)
 - **Route:** Route 2 West (Mohawk Trail) → Scenic stops → Pittsfield → I-84 South → NYC
@@ -20,11 +20,11 @@
 
 ## 📅 **Travel Timeline**
 
-- **8:00 AM:** Checkout from Residence Inn Boston Cambridge
-- **8:30 AM:** Depart Boston (Route 2 West - Mohawk Trail)
-- **5:30 PM:** Arrive Pittsfield, MA (overnight stop)
-- **7:00 PM:** Dinner at Friendly's
-- **Next Day:** Continue to NYC (arrive 16:00 for hotel check-in)
+- **8:00 AM:** Checkout from [Residence Inn Boston Cambridge](https://maps.google.com/maps?q=Residence+Inn+Boston+Cambridge)
+- **8:30 AM:** Depart [Boston](https://maps.google.com/maps?q=Boston+Massachusetts) ([Route 2 West - Mohawk Trail](https://maps.google.com/maps?q=Route+2+West+Mohawk+Trail+Massachusetts))
+- **5:30 PM:** Arrive [Pittsfield, MA](https://maps.google.com/maps?q=Pittsfield+Massachusetts) (overnight stop)
+- **7:00 PM:** Dinner at [Friendly's](https://maps.google.com/maps?q=Friendly%27s+Restaurant+Pittsfield+MA)
+- **Next Day:** Continue to [NYC](https://maps.google.com/maps?q=New+York+City) (arrive 16:00 for hotel check-in)
 
 ---
 
@@ -43,13 +43,13 @@
 - **⚠️ GPS Note:** Use the Google Maps link below to ensure scenic Route 2 routing (not highway I-90)
 
 #### **10:15 AM - [Mount Sugarloaf State Reservation](https://waze.com/ul?q=Mount%20Sugarloaf%20State%20Reservation%20South%20Deerfield%20MA)**
-- **Location:** South Deerfield, MA (8 miles south of Route 2)
+- **Location:** [South Deerfield, MA](https://maps.google.com/maps?q=South+Deerfield+Massachusetts) (8 miles south of Route 2)
 - **Activity:** Drive to summit for Connecticut River Valley panoramic views
 - **Duration:** 45 minutes | **Depart:** 11:00 AM
 - **Website:** [mass.gov/locations/mount-sugarloaf-state-reservation](https://www.mass.gov/locations/mount-sugarloaf-state-reservation)
 
 #### **11:30 AM - [Shelburne Falls](https://waze.com/ul?q=Bridge%20of%20Flowers%20Shelburne%20Falls%20MA)**
-- **Location:** Right off Route 2
+- **Location:** [Shelburne Falls](https://maps.google.com/maps?q=Shelburne+Falls+Massachusetts) - Right off Route 2
 - **Activities:** 
   - **Bridge of Flowers** - Historic trolley bridge turned garden
   - **Glacial Potholes** - Unique rock formations in Deerfield River
@@ -361,6 +361,6 @@
 ---
 
 <div align="center">
-<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small><em>🗽 US Family Trip 2025 - Version 1.6</em></small><br>
 <small>📅 Generated: Sep 30, 2025 | 🛻 Scenic Route 2 Journey</small>
 </div>

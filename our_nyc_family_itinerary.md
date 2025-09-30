@@ -606,6 +606,6 @@
 ---
 
 <div align="center">
-<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small><em>🗽 US Family Trip 2025 - Version 1.6</em></small><br>
 <small>📅 Generated: Sep 30, 2025 | 🗺️ 145+ Google Maps Links | 🍕 Local Recommendations</small>
 </div>

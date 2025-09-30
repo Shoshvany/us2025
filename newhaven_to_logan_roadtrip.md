@@ -5,24 +5,24 @@
 
 
 *Final Road Trip: 2 Adults + 3 Kids (ages 5, 9, 11)*  
-*Vehicle: Budget Car Rental from Tweed New Haven Airport*
+*Vehicle: Budget Car Rental from [Tweed New Haven Airport](https://maps.google.com/maps?q=Tweed+New+Haven+Airport+HVN)*
 
 ---
 
 ## 🚗 **Route Overview**
 
-**New Haven, CT → Boston Logan International Airport**
+**[New Haven, CT](https://maps.google.com/maps?q=New+Haven+Connecticut) → [Boston Logan International Airport](https://maps.google.com/maps?q=Boston+Logan+International+Airport)**
 - **Total Distance:** ~140 miles
 - **Total Driving Time:** ~3 hours (plus stops and sightseeing)
-- **Route:** I-95 North through Connecticut, Rhode Island, and Massachusetts
+- **Route:** [I-95 North](https://maps.google.com/maps?q=I-95+North+Connecticut+to+Massachusetts) through [Connecticut](https://maps.google.com/maps?q=Connecticut), [Rhode Island](https://maps.google.com/maps?q=Rhode+Island), and [Massachusetts](https://maps.google.com/maps?q=Massachusetts)
 
 ---
 
 ## 📅 **Travel Timeline**
 
-- **October 13:** Evening arrival in New Haven (22:22 flight arrival)
+- **October 13:** Evening arrival in [New Haven](https://maps.google.com/maps?q=New+Haven+Connecticut) (22:22 flight arrival)
 - **October 14:** Full exploration day in Connecticut/Rhode Island
-- **October 15:** Morning drive to Logan Airport (15:00 drop-off)
+- **October 15:** Morning drive to [Logan Airport](https://maps.google.com/maps?q=Boston+Logan+International+Airport) (15:00 drop-off)
 
 ---
 
@@ -31,15 +31,15 @@
 ### **✈️ Sunday, October 13 - Arrival Night**
 
 #### **Evening:**
-- **22:22 PM:** **Land at Tweed New Haven Airport (HVN)** - Avelo Airlines XP 716
+- **22:22 PM:** **Land at [Tweed New Haven Airport (HVN)](https://maps.google.com/maps?q=Tweed+New+Haven+Airport+HVN)** - Avelo Airlines XP 716
 - **22:45 PM:** Baggage claim and exit airport
-- **23:00 PM:** **Car pickup** - Budget Car Rental
+- **23:00 PM:** **Car pickup** - [Budget Car Rental](https://maps.google.com/maps?q=Budget+Car+Rental+Tweed+New+Haven+Airport)
   - **Confirmation:** D011866907
-  - **Location:** 155 Burr St, New Haven, CT 06512
+  - **Location:** [155 Burr St, New Haven, CT 06512](https://maps.google.com/maps?q=155+Burr+Street+New+Haven+CT+06512)
 - **23:30 PM:** **Drive to hotel** (5 minutes from airport)
 
 #### **Accommodation:**
-- **Hotel:** New Haven Area Hotel
+- **Hotel:** [New Haven Area Hotel](https://maps.google.com/maps?q=Hotels+New+Haven+Connecticut)
 - **Check-in:** Late arrival
 - **One night stay**
 - **Family rooms available**
@@ -65,17 +65,17 @@
 - **Historic New Haven Green** (perfect for kids to run around)
 
 #### **Late Morning:**
-- **11:30 AM:** **Drive to Mystic, CT** (45 minutes southeast)
+- **11:30 AM:** **Drive to [Mystic, CT](https://maps.google.com/maps?q=Mystic+Connecticut)** (45 minutes southeast)
 - **Route:** I-95 South to Exit 90
 
 #### **Lunch:**
-- **12:30 PM:** 🍽️ **LUNCH** - **Mystic Pizza** 🎯
+- **12:30 PM:** 🍽️ **LUNCH** - **[Mystic Pizza](https://maps.google.com/maps?q=Mystic+Pizza+56+W+Main+St+Mystic+CT)** 🎯
   - **Famous from the movie!** Kids love the movie connection
   - **Family-friendly atmosphere**
-  - **Address:** 56 W Main St, Mystic, CT
+  - **Address:** [56 W Main St, Mystic, CT](https://maps.google.com/maps?q=56+W+Main+Street+Mystic+CT)
 
 #### **Afternoon in Mystic (1:30-4:30 PM):**
-**Mystic Seaport Museum** 🎯 **(PERFECT FOR FAMILIES)**
+**[Mystic Seaport Museum](https://maps.google.com/maps?q=Mystic+Seaport+Museum+Connecticut)** 🎯 **(PERFECT FOR FAMILIES)**
 - **World's leading maritime museum**
 - **Historic ships** kids can explore
 - **19th-century coastal village**
@@ -83,7 +83,7 @@
 - **Duration:** 2-3 hours
 - **Great for all ages** - especially boys who love ships!
 
-**Alternative: Mystic Aquarium** 🎯
+**Alternative: [Mystic Aquarium](https://maps.google.com/maps?q=Mystic+Aquarium+Connecticut)** 🎯
 - **If prefer aquarium over maritime museum**
 - **Beluga whales, sea lions, jellyfish**
 - **Perfect for younger kids**
@@ -351,6 +351,6 @@
 ---
 
 <div align="center">
-<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small><em>🗽 US Family Trip 2025 - Version 1.6</em></small><br>
 <small>📅 Generated: Sep 30, 2025 | ✈️ Return Journey | 🚪 Mystic Seaport</small>
 </div>

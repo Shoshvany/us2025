@@ -5,29 +5,29 @@
 
 
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
-*Resort: Cabana Bay Beach Resort - Universal Orlando*
+*Resort: [Cabana Bay Beach Resort](https://maps.google.com/maps?q=Cabana+Bay+Beach+Resort+Universal+Orlando) - Universal Orlando*
 *⚠️ PARENT PREFERENCES: Dad avoids full inversions | Mom avoids horror themes*
 
 ---
 
 ## 📅 **Trip Overview**
 
-- **Thursday, Oct 9:** Arrival day (EWR→MCO flight lands 16:56) - Resort check-in & pool time
-- **Friday, Oct 10:** Epic Universe (NEW!) - Nintendo World & comprehensive touring
-- **Saturday, Oct 11:** Islands of Adventure - Harry Potter & thrill rides  
-- **Sunday, Oct 12:** Universal Studios Florida - Classic attractions & shows
-- **Monday, Oct 13:** Volcano Bay Water Park (half-day) + Departure (MCO→HVN flight 19:42)
+- **Thursday, Oct 9:** Arrival day ([EWR](https://maps.google.com/maps?q=Newark+Airport+EWR)→[MCO](https://maps.google.com/maps?q=Orlando+International+Airport+MCO) flight lands 16:56) - Resort check-in & pool time
+- **Friday, Oct 10:** [Epic Universe](https://maps.google.com/maps?q=Epic+Universe+Universal+Orlando) (NEW!) - Nintendo World & comprehensive touring
+- **Saturday, Oct 11:** [Islands of Adventure](https://maps.google.com/maps?q=Islands+of+Adventure+Universal+Orlando) - Harry Potter & thrill rides  
+- **Sunday, Oct 12:** [Universal Studios Florida](https://maps.google.com/maps?q=Universal+Studios+Florida+Orlando) - Classic attractions & shows
+- **Monday, Oct 13:** [Volcano Bay Water Park](https://maps.google.com/maps?q=Volcano+Bay+Universal+Orlando) (half-day) + Departure ([MCO](https://maps.google.com/maps?q=Orlando+International+Airport+MCO)→HVN flight 19:42)
 
 ---
 
 ## 🎫 **Key Reservations & Confirmations**
 
 - **Flight:** Spirit Airlines NK 2819 - EWR to MCO (14:10-16:56) - Confirmation: [REMOVED]
-- **Resort:** Cabana Bay Beach Resort - Courtyard Family Suite Poolside
+- **Resort:** [Cabana Bay Beach Resort](https://maps.google.com/maps?q=Cabana+Bay+Beach+Resort+Universal+Orlando) - Courtyard Family Suite Poolside
 - **Package:** Universal Orlando 3 Park Explorer + 1-Day Epic Universe Ticket  
-- **Address:** Orlando, FL 32819, United States
+- **Address:** [Orlando, FL 32819, United States](https://maps.google.com/maps?q=Orlando+FL+32819)
 - **Check-in:** October 9, 15:00
-- **Return Flight:** Avelo Airlines XP 716 - MCO to HVN (19:42-22:22)
+- **Return Flight:** Avelo Airlines XP 716 - [MCO](https://maps.google.com/maps?q=Orlando+International+Airport+MCO) to HVN (19:42-22:22)
 
 ---
 
@@ -36,16 +36,16 @@
 ### **✈️ Thursday, October 9 - Arrival Day**
 
 #### **Afternoon:**
-- **16:56 PM:** Land at Orlando International (MCO)
+- **16:56 PM:** Land at [Orlando International (MCO)](https://maps.google.com/maps?q=Orlando+International+Airport+MCO)
 - **17:30 PM:** Baggage claim & ground transportation
 - **18:00 PM:** 🚌 **Resort transfer** (hotel shuttle or rental car)
-  - **Cabana Bay Beach Resort** is on-property Universal resort
+  - **[Cabana Bay Beach Resort](https://maps.google.com/maps?q=Cabana+Bay+Beach+Resort+Universal+Orlando)** is on-property Universal resort
 
 #### **Evening:**
 - **18:30 PM:** **Check-in** at Cabana Bay Beach Resort
   - **Room:** Courtyard Family Suite Poolside
   - **Perfect for families** - sleeps 6, kitchenette, pool view
-- **19:30 PM:** 🍽️ **DINNER** - **Bayliner Diner** (resort restaurant)
+- **19:30 PM:** 🍽️ **DINNER** - **[Bayliner Diner](https://maps.google.com/maps?q=Bayliner+Diner+Cabana+Bay+Beach+Resort)** (resort restaurant)
   - **50's theme diner** with classic American food
   - **Kids love the atmosphere** - retro décor and music
 
@@ -932,6 +932,6 @@
 ---
 
 <div align="center">
-<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small><em>🗽 US Family Trip 2025 - Version 1.6</em></small><br>
 <small>📅 Generated: Sep 30, 2025 | 🎢 Ride Strategies | ⚠️ Parent Preferences</small>
 </div>

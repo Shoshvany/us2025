@@ -5,7 +5,7 @@
 
 
 *Family: 2 Adults + 3 Kids (ages 5, 9, 11)*  
-*Hotel: Cambridge Area Hotel*
+*Hotel: [Cambridge Area Hotel](https://maps.google.com/maps?q=Cambridge+Kendall+Square+Hotels+Boston)*
 
 ---
 
@@ -31,25 +31,25 @@
 ### **✈️ Tuesday, October 1 - Arrival Day & Downtown Boston Fun**
 
 #### **Early Morning:**
-- **05:45 AM:** Land at Boston Logan (BOS) - EL AL LY 15
+- **05:45 AM:** Land at [Boston Logan (BOS)](https://maps.google.com/maps?q=Boston+Logan+International+Airport) - EL AL LY 15
 - **06:30 AM:** Customs, baggage claim
-- **07:00 AM:** 🚕 **Taxi to hotel** (20-30 minutes to Cambridge)
+- **07:00 AM:** 🚕 **Taxi to hotel** (20-30 minutes to [Cambridge](https://maps.google.com/maps?q=Cambridge+Massachusetts))
 - **07:30 AM:** Drop luggage at hotel (early check-in or storage)
 
 #### **Morning:**
-- **08:00 AM:** 🍳 **BREAKFAST** - **Tatte Bakery** (nearby) or hotel area café
-- **08:45 AM:** 🚇 **Red Line to downtown Boston** (Park Street station)
-- **09:15 AM:** 🎯 **Faneuil Hall Marketplace** - Perfect arrival spot!
-  - **Quincy Market** - Food court with Boston specialties
+- **08:00 AM:** 🍳 **BREAKFAST** - **[Tatte Bakery](https://maps.google.com/maps?q=Tatte+Bakery+Cambridge+Boston)** (nearby) or hotel area café
+- **08:45 AM:** 🚇 **Red Line to downtown Boston** ([Park Street station](https://maps.google.com/maps?q=Park+Street+Station+Boston+MBTA))
+- **09:15 AM:** 🎯 **[Faneuil Hall Marketplace](https://maps.google.com/maps?q=Faneuil+Hall+Marketplace+Boston)** - Perfect arrival spot!
+  - **[Quincy Market](https://maps.google.com/maps?q=Quincy+Market+Faneuil+Hall+Boston)** - Food court with Boston specialties
   - **Street performers** (kids love this!)
   - **Shopping** - souvenirs and local goods
   - **Great for jet lag** - sit, eat, people-watch
 
 #### **Late Morning:**
-- **11:00 AM:** 🌊 **Boston Harbor exploration**
-  - **Harborwalk** - Easy waterfront stroll
-  - **Christopher Columbus Waterfront Park** - Green space for kids
-  - **New England Aquarium** (exterior/quick visit if energy allows)
+- **11:00 AM:** 🌊 **[Boston Harbor](https://maps.google.com/maps?q=Boston+Harbor+Waterfront) exploration**
+  - **[Harborwalk](https://maps.google.com/maps?q=Boston+Harborwalk)** - Easy waterfront stroll
+  - **[Christopher Columbus Waterfront Park](https://maps.google.com/maps?q=Christopher+Columbus+Waterfront+Park+Boston)** - Green space for kids
+  - **[New England Aquarium](https://maps.google.com/maps?q=New+England+Aquarium+Boston)** (exterior/quick visit if energy allows)
   - **Harbor views** - ships, water, city skyline
 
 #### **Lunch:**
@@ -60,9 +60,9 @@
 
 #### **Afternoon:**
 - **2:00 PM:** 🎢 **Fun Boston attractions (nearby & light)**
-  - **New England Aquarium** - Perfect for kids, right on the harbor
-  - **Boston Children's Museum** (if kids have energy)
-  - **Rose Kennedy Greenway** - Parks, fountains, food trucks
+  - **[New England Aquarium](https://maps.google.com/maps?q=New+England+Aquarium+Boston)** - Perfect for kids, right on the harbor
+  - **[Boston Children's Museum](https://maps.google.com/maps?q=Boston+Children%27s+Museum)** (if kids have energy)
+  - **[Rose Kennedy Greenway](https://maps.google.com/maps?q=Rose+Kennedy+Greenway+Boston)** - Parks, fountains, food trucks
   - **Harbor walks** - scenic and easy
   - **Back to hotel option** if family gets tired
 - **4:00 PM:** **Return to hotel** - official check-in, rest, unpack
@@ -75,23 +75,23 @@
 
 ---
 
-### **🎓 Wednesday, October 2 - Campus Day (MIT & Harvard)**
+### **🎓 Wednesday, October 2 - Campus Day ([MIT](https://maps.google.com/maps?q=MIT+Cambridge+Massachusetts) & [Harvard](https://maps.google.com/maps?q=Harvard+University+Cambridge))**
 
-#### **Morning - Harvard University:**
+#### **Morning - [Harvard University](https://maps.google.com/maps?q=Harvard+University+Cambridge):**
 - **8:00 AM:** 🍳 **BREAKFAST** - Hotel breakfast
-- **9:00 AM:** 🚇 **Red Line to Harvard Square** (1 stop from hotel)
-- **9:30 AM:** 🎓 **HARVARD UNIVERSITY EXPERIENCE** (Logical walking route)
+- **9:00 AM:** 🚇 **Red Line to [Harvard Square](https://maps.google.com/maps?q=Harvard+Square+Cambridge)** (1 stop from hotel)
+- **9:30 AM:** 🎓 **[HARVARD UNIVERSITY](https://maps.google.com/maps?q=Harvard+University+Cambridge) EXPERIENCE** (Logical walking route)
   
   **📍 Start: Harvard Square & Student Life Hub**
-  - **Harvard Square** - Bustling student area, street performers, energy
-  - **Harvard Coop bookstore** - Browse books, Harvard gear, student hangout
+  - **[Harvard Square](https://maps.google.com/maps?q=Harvard+Square+Cambridge)** - Bustling student area, street performers, energy
+  - **[Harvard Coop bookstore](https://maps.google.com/maps?q=Harvard+Coop+bookstore+Cambridge)** - Browse books, Harvard gear, student hangout
   
   **📍 Harvard Yard - Campus Beauty & Student Atmosphere**
-  - **Harvard Yard main entrance** - Iconic gates, perfect photos
-  - **Tercentenary Theatre** - Beautiful open quad where students study/relax
-  - **Widener Library steps** - Students studying, impressive architecture
-  - **Memorial Church** - Stunning spire, students walking between classes
-  - **John Harvard statue** - Kids love touching his shiny foot for luck!
+  - **[Harvard Yard](https://maps.google.com/maps?q=Harvard+Yard+Cambridge) main entrance** - Iconic gates, perfect photos
+  - **[Tercentenary Theatre](https://maps.google.com/maps?q=Tercentenary+Theatre+Harvard)** - Beautiful open quad where students study/relax
+  - **[Widener Library](https://maps.google.com/maps?q=Widener+Library+Harvard) steps** - Students studying, impressive architecture
+  - **[Memorial Church](https://maps.google.com/maps?q=Memorial+Church+Harvard+University)** - Stunning spire, students walking between classes
+  - **[John Harvard statue](https://maps.google.com/maps?q=John+Harvard+statue+Harvard+Yard)** - Kids love touching his shiny foot for luck!
   
   **📍 Student Life Hotspots**
   - **Annenberg Hall** - Where freshmen eat (Harry Potter vibes!)
@@ -107,8 +107,8 @@
 - **12:00 PM:** 🍽️ **LUNCH** - Harvard Square restaurants or back to hotel
 
 #### **Afternoon - MIT Tour (Confirmed!):**
-- **1:30 PM:** 🚇 **Travel to MIT** (Red Line: Harvard → Kendall/MIT)
-- **1:45 PM:** **Arrive at MIT Welcome Center** (292 Main Street)
+- **1:30 PM:** 🚇 **Travel to [MIT](https://maps.google.com/maps?q=MIT+Cambridge+Massachusetts)** (Red Line: Harvard → [Kendall/MIT](https://maps.google.com/maps?q=Kendall+MIT+Station))
+- **1:45 PM:** **Arrive at [MIT Welcome Center](https://maps.google.com/maps?q=MIT+Welcome+Center+292+Main+Street+Cambridge)** (292 Main Street)
   - **Check-in 15 minutes early** as requested
 - **2:00 PM:** 🎯 **MIT CAMPUS TOUR** (Your confirmed tour!)
   - **Duration:** 1 hour walking tour
@@ -291,6 +291,6 @@
 ---
 
 <div align="center">
-<small><em>🗽 US Family Trip 2025 - Version 1.5</em></small><br>
+<small><em>🗽 US Family Trip 2025 - Version 1.6</em></small><br>
 <small>📅 Generated: Sep 30, 2025 | 🏦 Historical Boston | 🦞 Seafood Adventures</small>
 </div>
