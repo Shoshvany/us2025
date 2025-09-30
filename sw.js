@@ -1,10 +1,11 @@
-const CACHE_NAME = 'us-trip-2025-v1.6';
+const CACHE_NAME = 'us-trip-2025-v1.7';
+const VERSION = '1.7';
 const urlsToCache = [
   '.',
   './index.html',
-  './manifest.json',
-  './icon-192.png',
-  './icon-512.png',
+  `./manifest.json?v=${VERSION}`,
+  `./icon-192.png?v=${VERSION}`,
+  `./icon-512.png?v=${VERSION}`,
   // Travel documents
   './our_nyc_family_itinerary.md',
   './our_nyc_must_do_list.md',
@@ -51,32 +52,55 @@ self.addEventListener('activate', event => {
 
 // Fetch event - serve from cache, fallback to network
 self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request)
-      .then(response => {
-        // Return cached version or fetch from network
-        if (response) {
-          return response;
-        }
-
-        return fetch(event.request).then(response => {
-          // Check if we received a valid response
-          if (!response || response.status !== 200 || response.type !== 'basic') {
+  const url = new URL(event.request.url);
+  
+  // For critical PWA files, always check network first to ensure updates
+  const criticalFiles = ['manifest.json', 'index.html'];
+  const isCriticalFile = criticalFiles.some(file => url.pathname.includes(file));
+  
+  if (isCriticalFile) {
+    // Network first strategy for critical files
+    event.respondWith(
+      fetch(event.request)
+        .then(response => {
+          if (response && response.status === 200) {
+            const responseToCache = response.clone();
+            caches.open(CACHE_NAME)
+              .then(cache => cache.put(event.request, responseToCache));
+            return response;
+          }
+          return caches.match(event.request);
+        })
+        .catch(() => caches.match(event.request))
+    );
+  } else {
+    // Cache first strategy for other resources
+    event.respondWith(
+      caches.match(event.request)
+        .then(response => {
+          // Return cached version or fetch from network
+          if (response) {
             return response;
           }
 
-          // Clone the response
-          const responseToCache = response.clone();
+          return fetch(event.request).then(response => {
+            // Check if we received a valid response
+            if (!response || response.status !== 200 || response.type !== 'basic') {
+              return response;
+            }
 
-          caches.open(CACHE_NAME)
-            .then(cache => {
-              cache.put(event.request, responseToCache);
-            });
+            // Clone the response
+            const responseToCache = response.clone();
 
-          return response;
-        }).catch(() => {
-          // If both cache and network fail, show offline page for navigation requests
-          if (event.request.destination === 'document') {
+            caches.open(CACHE_NAME)
+              .then(cache => {
+                cache.put(event.request, responseToCache);
+              });
+
+            return response;
+          }).catch(() => {
+            // If both cache and network fail, show offline page for navigation requests
+            if (event.request.destination === 'document') {
             return new Response(`
               <!DOCTYPE html>
               <html>
@@ -116,10 +140,11 @@ self.addEventListener('fetch', event => {
             `, {
               headers: { 'Content-Type': 'text/html' }
             });
-          }
-        });
-      })
-  );
+            }
+          });
+        })
+    );
+  }
 });
 
 // Handle background sync for offline actions

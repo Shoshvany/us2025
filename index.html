@@ -14,9 +14,9 @@
     <meta name="description" content="Complete family travel planning for NYC, Orlando, Boston trips">
 
     <!-- PWA Icons -->
-    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
-    <link rel="apple-touch-icon" href="icon-192.png">
-    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png?v=1.7">
+    <link rel="apple-touch-icon" href="icon-192.png?v=1.7">
+    <link rel="manifest" href="manifest.json?v=1.7">
 
     <style>
         body {
@@ -363,8 +363,24 @@
             <p><strong>📱 PWA Travel Planner</strong></p>
             <p>Works offline • Install to home screen • Auto-updates</p>
             <p><em>Your complete US family trip planning companion</em></p>
+            <button onclick="forceAppUpdate()" style="
+                background: #e74c3c; 
+                color: white; 
+                border: none; 
+                padding: 8px 16px; 
+                border-radius: 5px; 
+                cursor: pointer; 
+                margin: 10px 0;
+                font-size: 0.9em;
+                transition: background 0.3s;
+            " onmouseover="this.style.background='#c0392b'" onmouseout="this.style.background='#e74c3c'">
+                🔄 Force Update
+            </button>
             <p style="font-size: 0.8em; color: #95a5a6; margin-top: 15px;">
-                <strong>Version 1.6</strong> | Updated: Sep 30, 2025 16:30 EST
+                <strong>Version 1.7</strong> | Updated: Sep 30, 2025 17:45 EST
+            </p>
+            <p style="font-size: 0.7em; color: #bdc3c7; margin-top: 5px;">
+                Having cache issues? Try the Force Update button or press Ctrl+Shift+U
             </p>
         </div>
     </div>
@@ -402,17 +418,56 @@
             }
         });
 
-        // Register service worker
+        // Register service worker with update detection
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js')
-                    .then((registration) => {
-                        console.log('SW registered: ', registration);
-                    })
-                    .catch((registrationError) => {
-                        console.log('SW registration failed: ', registrationError);
+            window.addEventListener('load', async () => {
+                try {
+                    const registration = await navigator.serviceWorker.register('sw.js');
+                    console.log('SW registered: ', registration);
+
+                    // Check for updates every time the page loads
+                    registration.addEventListener('updatefound', () => {
+                        const newWorker = registration.installing;
+                        newWorker.addEventListener('statechange', () => {
+                            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                // New service worker installed, refresh to get latest version
+                                if (confirm('New version available! Refresh to update?')) {
+                                    window.location.reload();
+                                }
+                            }
+                        });
                     });
+
+                    // Force update check
+                    registration.update();
+                } catch (error) {
+                    console.log('SW registration failed: ', error);
+                }
             });
+
+            // Add keyboard shortcut for force refresh (Cmd/Ctrl + Shift + R equivalent)
+            document.addEventListener('keydown', (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'U') {
+                    e.preventDefault();
+                    forceAppUpdate();
+                }
+            });
+        }
+
+        // Force app update function
+        async function forceAppUpdate() {
+            if ('serviceWorker' in navigator) {
+                // Clear all caches
+                const cacheNames = await caches.keys();
+                await Promise.all(cacheNames.map(name => caches.delete(name)));
+
+                // Unregister service worker
+                const registrations = await navigator.serviceWorker.getRegistrations();
+                await Promise.all(registrations.map(reg => reg.unregister()));
+
+                // Force reload
+                window.location.reload(true);
+            }
         }
 
         // Enhanced markdown to HTML converter
